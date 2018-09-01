@@ -16,7 +16,7 @@ Here are some examples of what a post with images might look like. If you want t
 #### One Up
 
 <figure>
-	<a href="https://erwanlc.github.io/somepics/assets/images/test.jpg"><img src="https://erwanlc.github.io/somepics/assets/images/test.jpg"></a>
+	<a href="https://erwanlc.github.io/somepics/assets/images/test.png"><img src="https://erwanlc.github.io/somepics/assets/images/test.png"></a>
 	<figcaption><a href="http://www.flickr.com/photos/80901381@N04/7758832526/" title="Morning Fog Emerging From Trees by A Guy Taking Pictures, on Flickr">Morning Fog Emerging From Trees by A Guy Taking Pictures, on Flickr</a>.</figcaption>
 </figure>
 
